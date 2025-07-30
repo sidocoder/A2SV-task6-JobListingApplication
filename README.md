@@ -39,6 +39,6 @@ A responsive Job Listing Dashboard built with **Next.js**, **TypeScript**, and *
   - API integration
 
 ---
-# 👩🏻‍💻 Author
+# 👩🏻‍💻👧🏻 Author
 ### Sifhoran Regassa Gidisa
 #### 🚀 Built for A2SV Web Track — 2025
