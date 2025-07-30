@@ -8,11 +8,11 @@ A responsive Job Listing Dashboard built with **Next.js**, **TypeScript**, and *
 
 ### 💼 Dashboard View
 
-![Dashboard Screenshot](./public/screenshots/dashboard.png)
+![Dashboard Screenshot](./public/description.png)
 
 ### 📇 Job Card Example
 
-![Job Card Screenshot](./public/screenshots/job-card.png)
+![Job Card Screenshot](./public/joblist.png)
 
 ---
 
